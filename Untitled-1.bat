@@ -1,0 +1,1 @@
+start /MIN python 12DirectoryMonitor.py & exit
